@@ -76,7 +76,14 @@ WSGI_APPLICATION = 'airline.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
-
+"""
+# In .bash_profile in ~/
+export DATABASE_NAME=postgres
+export DATABASE_USER=postgres
+export DATABASE_PASSWORD=postgres
+export DATABASE_HOST=127.0.0.1
+export DATABASE_PORT=5432
+"""
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
