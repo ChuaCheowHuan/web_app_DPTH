@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ChuaCheowHuan/web_app_DPTH.svg?branch=master)](https://travis-ci.com/ChuaCheowHuan/web_app_DPTH)
+
 **What is this repository about?**
 
 This repository serves as a demo setup illustrating the basic workflow of
